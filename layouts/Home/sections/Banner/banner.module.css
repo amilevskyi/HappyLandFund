@@ -1,0 +1,17 @@
+.container {
+  position: relative;
+}
+
+.row {
+  left: 0;
+  right: 0;
+  padding: 0 50px;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+}
+
+.text {
+  word-break: break-all;
+  white-space: pre-wrap;
+}
