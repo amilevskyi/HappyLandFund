@@ -16,7 +16,7 @@ export const Partners = () => {
             <a href={link} target="_blank" rel="noreferrer">
               <Card className="p-3 border-0">
                 <Image
-                  src={`/images/partners-${id}.png`}
+                  src={`/images/partners/${id}.png`}
                   width="60"
                   height="60"
                   className="pe-2"
